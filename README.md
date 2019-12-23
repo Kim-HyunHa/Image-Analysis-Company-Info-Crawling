@@ -25,7 +25,7 @@ It shows us computer vision's employment in korean job site. (ex. saramin, job k
 
 - Filed of Industry
 
-  ![Field of Industry](C:\Users\gusgk\Desktop\cap1.JPG)
+  ![Field of Industry](https://user-images.githubusercontent.com/18068210/71361350-0d06cd00-25d6-11ea-98fe-b14433f6a432.JPG)
 
   Manufacturing industry hires computer vision's talented person the most.
 
@@ -33,7 +33,7 @@ It shows us computer vision's employment in korean job site. (ex. saramin, job k
 
 - Company Volume
 
-  ![Company Volume](C:\Users\gusgk\Desktop\cap2.JPG)
+  ![Company Volume](https://user-images.githubusercontent.com/18068210/71361387-2dcf2280-25d6-11ea-8e3f-e0cae251777d.JPG)
 
   As expected, most of companies are the small and medium-sized businesses. 
 
@@ -41,6 +41,6 @@ It shows us computer vision's employment in korean job site. (ex. saramin, job k
 
 - Company Location
 
-  ![Company Location](C:\Users\gusgk\Desktop\cap3.JPG)
+  ![Company Location](https://user-images.githubusercontent.com/18068210/71361395-3889b780-25d6-11ea-9ebf-58492ea4da3f.JPG)
 
   Most companies are located in capital area.
